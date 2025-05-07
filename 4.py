@@ -1,4 +1,4 @@
-def eje4():
+def 4():
   print("ingrese el primer Lado")
   print("ingrese el segundo Lado")
   lado1=int(input())
