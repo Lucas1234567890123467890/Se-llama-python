@@ -1,4 +1,4 @@
-def eje2():
+def 2():
   print("ingrese el primer numero")
   num1=int(input())
   print("ingrese el segundo numero")
